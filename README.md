@@ -1,2 +1,2 @@
 # web
-Frontend do projeto AjudaSP
+Frontend do projeto BSR8-SP
